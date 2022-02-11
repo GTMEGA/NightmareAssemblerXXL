@@ -1,6 +1,6 @@
-# DreamAssemblerXXL
+# NightmareAssemblerXXL
 
-Scripts to update dependencies and add GTNH maven
+Scripts to update dependencies and add GTMEGA maven
 
 * [gtnh-modpack.json](gtnh-modpack.json): Modpack Manifest: Mods, licenses, version, etc
 * [repo-blacklist.json](repo-blacklist.json): GitHub repositories that are not part of the pack
